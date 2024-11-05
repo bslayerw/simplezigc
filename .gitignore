@@ -1,4 +1,7 @@
 .zig-cache
 zig-cache
 zig-out
-mgr
+.envrc
+.clang-tidy
+.clangd
+.vscode
